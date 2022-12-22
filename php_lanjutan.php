@@ -1,5 +1,9 @@
 <?php
 
-$nama = "Christian Titus Fernanda"
+$NamaSaya = "Titus" ;
+$UmurSaya = "20 tahun" ;
+$AsalSaya = "Kabupaten Sleman" ;
+
+    echo "Halo dunia! Nama saya <strong>$NamaSaya</strong>, umur saya <strong>$UmurSaya</strong>, asal dari <strong>$AsalSaya</strong>.";
 
 ?>
